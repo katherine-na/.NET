@@ -1,0 +1,15 @@
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\bin\Debug\net9.0\consoleapp.exe
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\bin\Debug\net9.0\consoleapp.deps.json
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\bin\Debug\net9.0\consoleapp.runtimeconfig.json
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\bin\Debug\net9.0\consoleapp.dll
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\bin\Debug\net9.0\consoleapp.pdb
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.AssemblyInfo.cs
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.sourcelink.json
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.dll
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\refint\consoleapp.dll
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.pdb
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\consoleapp.genruntimeconfig.cache
+C:\Users\DRSLT0123\Desktop\Platzi\consoleapp\obj\Debug\net9.0\ref\consoleapp.dll
